@@ -5,11 +5,6 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=for-the-badge&logo=databricks&logoColor=white)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-[![Author](https://img.shields.io/badge/Author-RENSEE%20GAJIPARA-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge&logo=git&logoColor=white)]()
 
 > *Insights into revenue growth, profit trends, customer segments, and operational efficiency.*
 
@@ -148,8 +143,7 @@ start Global_Superstore_Dashboard.pbix
 <div align="center">
 
 [![Author Badge](https://img.shields.io/badge/👩‍💻%20Author-RENSEE%20GAJIPARA-blueviolet?style=for-the-badge&logo=github)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-renseegajipara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 *Feel free to reach out for collaboration, feedback, or questions!*
 
